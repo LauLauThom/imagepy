@@ -1,1 +1,0 @@
-catlog = ['magic_tol', 'floodfill_tol', 'flood3d_tol']

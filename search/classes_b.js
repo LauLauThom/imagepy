@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['macros',['Macros',['../classimagepy_1_1core_1_1engine_1_1macros_1_1_macros.html',1,'imagepy.core.engine.macros.Macros'],['../classimagepy_1_1menus_1_1_plugins_1_1_manager_1_1console__wgt_1_1_macros.html',1,'imagepy.menus.Plugins.Manager.console_wgt.Macros']]],
+  ['manager',['Manager',['../classimagepy_1_1core_1_1myvi_1_1manager_1_1_manager.html',1,'imagepy::core::myvi::manager']]],
+  ['mark',['Mark',['../classimagepy_1_1menus_1_1_analysis_1_1_skeleton_01_network_1_1graph__plgs_1_1_mark.html',1,'imagepy.menus.Analysis.Skeleton Network.graph_plgs.Mark'],['../classimagepy_1_1menus_1_1_analysis_1_1statistic__plg_1_1_mark.html',1,'imagepy.menus.Analysis.statistic_plg.Mark'],['../classimagepy_1_1tools_1_1_network_1_1graphcut__tol_1_1_mark.html',1,'imagepy.tools.Network.graphcut_tol.Mark'],['../classimagepy_1_1tools_1_1_network_1_1graphpen__tol_1_1_mark.html',1,'imagepy.tools.Network.graphpen_tol.Mark'],['../classimagepy_1_1menus_1_1_analysis_1_1_region_01_analysis_1_1statistic__plgs_1_1_mark.html',1,'imagepy.menus.Analysis.Region Analysis.statistic_plgs.Mark']]],
+  ['marktext',['MarkText',['../classimagepy_1_1core_1_1myvi_1_1manager_1_1_mark_text.html',1,'imagepy::core::myvi::manager']]],
+  ['match',['Match',['../classimagepy_1_1menus_1_1_image_1_1_adjust_1_1histogram__plgs_1_1_match.html',1,'imagepy::menus::Image::Adjust::histogram_plgs']]],
+  ['max',['Max',['../classimagepy_1_1menus_1_1_process_1_1_math_1_1math__plgs_1_1_max.html',1,'imagepy::menus::Process::Math::math_plgs']]],
+  ['maximum',['Maximum',['../classimagepy_1_1menus_1_1_process_1_1_filters_1_1classic__plgs_1_1_maximum.html',1,'imagepy::menus::Process::Filters::classic_plgs']]],
+  ['medialaxis',['MedialAxis',['../classimagepy_1_1menus_1_1_process_1_1_binary_1_1distance__plgs_1_1_medial_axis.html',1,'imagepy::menus::Process::Binary::distance_plgs']]],
+  ['median',['Median',['../classimagepy_1_1menus_1_1_process_1_1_filters_1_1classic__plgs_1_1_median.html',1,'imagepy::menus::Process::Filters::classic_plgs']]],
+  ['megafontrenderer',['MegaFontRenderer',['../classimagepy_1_1ui_1_1tablewindow_1_1_mega_font_renderer.html',1,'imagepy::ui::tablewindow']]],
+  ['meijering',['Meijering',['../classimagepy_1_1menus_1_1_process_1_1_features_1_1ridge__plgs_1_1_meijering.html',1,'imagepy.menus.Process.Features.ridge_plgs.Meijering'],['../classimagepy_1_1menus_1_1_kit3_d_1_1_features_013_d_1_1ridge__plgs_1_1_meijering.html',1,'imagepy.menus.Kit3D.Features 3D.ridge_plgs.Meijering']]],
+  ['mergehierarchical',['MergeHierarchical',['../classimagepy_1_1menus_1_1_process_1_1_segment_1_1graph__plgs_1_1_merge_hierarchical.html',1,'imagepy::menus::Process::Segment::graph_plgs']]],
+  ['mergergb',['MergeRGB',['../classimagepy_1_1menus_1_1_image_1_1_color_1_1splitandmerge__plgs_1_1_merge_r_g_b.html',1,'imagepy::menus::Image::Color::splitandmerge_plgs']]],
+  ['min',['Min',['../classimagepy_1_1menus_1_1_process_1_1_math_1_1math__plgs_1_1_min.html',1,'imagepy::menus::Process::Math::math_plgs']]],
+  ['minimum',['Minimum',['../classimagepy_1_1menus_1_1_process_1_1_filters_1_1classic__plgs_1_1_minimum.html',1,'imagepy::menus::Process::Filters::classic_plgs']]],
+  ['mkdown',['MkDown',['../classimagepy_1_1core_1_1engine_1_1mkdown_1_1_mk_down.html',1,'imagepy::core::engine::mkdown']]],
+  ['mkdownwindow',['MkDownWindow',['../classimagepy_1_1ui_1_1mkdownwindow_1_1_mk_down_window.html',1,'imagepy::ui::mkdownwindow']]],
+  ['moravec',['Moravec',['../classimagepy_1_1menus_1_1_process_1_1_features_1_1corner__plgs_1_1_moravec.html',1,'imagepy::menus::Process::Features::corner_plgs']]],
+  ['morphchanvese',['MorphChanVese',['../classimagepy_1_1menus_1_1_process_1_1_segment_1_1active__plgs_1_1_morph_chan_vese.html',1,'imagepy::menus::Process::Segment::active_plgs']]],
+  ['morphgeochanvese',['MorphGeoChanVese',['../classimagepy_1_1menus_1_1_process_1_1_segment_1_1active__plgs_1_1_morph_geo_chan_vese.html',1,'imagepy::menus::Process::Segment::active_plgs']]],
+  ['morphgeoroi',['MorphGeoRoi',['../classimagepy_1_1menus_1_1_process_1_1_segment_1_1active__plgs_1_1_morph_geo_roi.html',1,'imagepy::menus::Process::Segment::active_plgs']]],
+  ['multiply',['Multiply',['../classimagepy_1_1menus_1_1_process_1_1_math_1_1math__plgs_1_1_multiply.html',1,'imagepy::menus::Process::Math::math_plgs']]]
+];

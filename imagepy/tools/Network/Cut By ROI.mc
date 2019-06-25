@@ -1,1 +1,0 @@
-Cut By ROI>None
